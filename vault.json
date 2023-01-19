@@ -1,0 +1,8 @@
+{
+  "robotSpareBin": {
+    "dancingRobotGIF": "https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-LG.gif",
+    "inputFileURL": "https://robotsparebinindustries.com/orders.csv",
+    "inputFileName": "orders.csv",
+    "orderProcessingURL": "https://robotsparebinindustries.com/#/robot-order"
+  }
+}
